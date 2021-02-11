@@ -4,6 +4,8 @@ et de récupérer les matrices intrinsèque et homographie pour pouvoir faire de
 
 après la calibration de la caméra: 
 
+
 ![alt text](https://github.com/Koussailakadi/Augmented_Reality_computerVision_Python/blob/main/conimg3.jpg?raw=true)
+
 
 ![alt text](https://github.com/Koussailakadi/Augmented_Reality_computerVision_Python/blob/main/conimg4.jpg?raw=true)
